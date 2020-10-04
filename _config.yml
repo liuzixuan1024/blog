@@ -6,8 +6,13 @@ description: 欢迎来我博客
 avatarTitle: liuzixuan
 # 头像里面的描述
 avatarDesc: 临床医学 / 信息化
+<<<<<<< HEAD
 url: http://liuzixuan1024.gitee.io/blog
 baseurl:  /blog # the subpath of your site, e.g. /blog
+=======
+url: "http://liuzixuan1024.gitee.io/blog/style.css "## https://ipvb.gitee.io/blog/style.css 
+baseurl: "/blog/style.css" # the subpath of your site, e.g. /blog
+>>>>>>> a8ced498893358a744dfa1e0e27b5c22e30782b5
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
